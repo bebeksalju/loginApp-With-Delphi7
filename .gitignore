@@ -1,0 +1,21 @@
+# Delphi 7 temporary and backup files
+*.~*
+*.dcu
+*.dsk
+*.cfg
+*.identcache
+*.local
+*.map
+*.stat
+*.tvsconfig
+*.bak
+*.tmp
+
+# IDE-specific files
+__history/
+__recovery/
+__recovery_backup/
+
+# Windows hidden files
+Thumbs.db
+Desktop.ini
